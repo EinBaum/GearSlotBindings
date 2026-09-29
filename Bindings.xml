@@ -1,0 +1,21 @@
+<Bindings>
+	<Binding name="CLICK GearSlotBindingsHead:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsNeck:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsShoulder:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsBack:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsChest:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsShirt:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsTabard:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsWrist:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsHands:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsWaist:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsLegs:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsFeet:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsFinger0:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsFinger1:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsTrinket0:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsTrinket1:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsMainHand:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsOffHand:LeftButton" category="GearSlotBindings"/>
+	<Binding name="CLICK GearSlotBindingsRanged:LeftButton" category="GearSlotBindings"/>
+</Bindings>

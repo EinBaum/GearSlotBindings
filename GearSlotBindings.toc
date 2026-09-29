@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: GearSlotBindings
+## Notes: Keybinds that use each equipped gear slot.
+## Author: EinBaum
+## Version: 1.0.0
+## Category: Combat
+## IconTexture: Interface\Icons\INV_Jewelry_Talisman_01
+
+GearSlotBindings.lua
